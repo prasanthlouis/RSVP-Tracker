@@ -1,0 +1,13 @@
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\bin\Debug\netcoreapp2.1\RSVPBackend.deps.json
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\bin\Debug\netcoreapp2.1\RSVPBackend.runtimeconfig.json
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\bin\Debug\netcoreapp2.1\RSVPBackend.runtimeconfig.dev.json
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\bin\Debug\netcoreapp2.1\RSVPBackend.dll
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\bin\Debug\netcoreapp2.1\RSVPBackend.pdb
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\obj\Debug\netcoreapp2.1\RSVPBackend.csproj.CoreCompileInputs.cache
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\obj\Debug\netcoreapp2.1\RSVPBackend.AssemblyInfoInputs.cache
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\obj\Debug\netcoreapp2.1\RSVPBackend.AssemblyInfo.cs
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\obj\Debug\netcoreapp2.1\RSVPBackend.dll
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\obj\Debug\netcoreapp2.1\RSVPBackend.pdb
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\bin\Debug\netcoreapp2.1\Emails.txt
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\obj\Debug\netcoreapp2.1\RSVPBackend.csprojAssemblyReference.cache
+C:\RSVP maker\Backend\RSVPBackend\RSVPBackend\bin\Debug\netcoreapp2.1\Password.txt
